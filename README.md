@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akash Dhar Dwivedi</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+- 🌱 I’m currently learning **Kubernetes**
+
+- 👨‍💻 All of my projects are available at [www.akashdhardwivedi.in](www.akashdhardwivedi.in)
+
+- 💬 Ask me about **DevOps and Cloud**
+
 - 📫 How to reach me **akashdhardwivedi1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
