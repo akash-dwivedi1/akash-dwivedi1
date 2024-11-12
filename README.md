@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **akashdhardwivedi1@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1v0nOQ69KhaIab5gezf9CS4oaJnORd-Ey/edit?usp=sharing&ouid=107217294439594986040&rtpof=true&sd=true](https://docs.google.com/document/d/1v0nOQ69KhaIab5gezf9CS4oaJnORd-Ey/edit?usp=sharing&ouid=107217294439594986040&rtpof=true&sd=true)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akash-dhar-dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-dhar-dwivedi" height="30" width="40" /></a>
